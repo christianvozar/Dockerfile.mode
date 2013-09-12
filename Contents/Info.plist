@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleGetInfoString</key>
-	<string>1.0 Panic Inc.</string>
+	<string>1.0 Christian Vozar</string>
 	<key>CFBundleIdentifier</key>
 	<string>SEEMode.Dockerfile</string>
 	<key>CFBundleInfoDictionaryVersion</key>

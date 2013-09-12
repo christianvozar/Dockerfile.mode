@@ -1,0 +1,4 @@
+CFBundleName = "Dockerfile";
+CFBundleShortVersionString = "";
+CFBundleGetInfoString = "Dockerfile Mode 1.0, Copyright 2013";
+NSHumanReadableCopyright = "© 2013 Christian Vozar";
