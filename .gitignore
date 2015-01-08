@@ -1,5 +1,7 @@
-# Xcode
+# Mac OSX Desktop Services Store
 .DS_Store
+
+# Xcode
 build/
 *.pbxuser
 !default.pbxuser
