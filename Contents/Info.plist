@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleGetInfoString</key>
-	<string>1.0 Christian Vozar</string>
+	<string>1.1 Christian R. Vozar</string>
 	<key>CFBundleIdentifier</key>
 	<string>SEEMode.Dockerfile</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -13,10 +13,12 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
+	<key>SEEMinimumEngineVersion</key>
+	<string>3.5</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2013 Christian Vozar</string>
+	<string>© 2016 Christian R. Vozar</string>
 </dict>
 </plist>
