@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleGetInfoString</key>
 	<string>1.1 Christian R. Vozar</string>
+	<key>CodaAuthorString</key>
+	<string>Christian R. Vozar</string>
+	<key>CodaDescriptionString</key>
+	<string>Dockerfile syntax highlighting mode for Coda 2.x</string>
 	<key>CFBundleIdentifier</key>
 	<string>SEEMode.Dockerfile</string>
 	<key>CFBundleInfoDictionaryVersion</key>
